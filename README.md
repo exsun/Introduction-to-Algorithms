@@ -1,4 +1,4 @@
-# Introduction to Algorithms and Data Structure 
+# Introduction to Algorithms 4th edition
 ## written in python 🐍
 ### Implementation of all exercises in the book
 
